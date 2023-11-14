@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SEI"]
+	path = SEI
+	url = https://github.com/noeliaof/sei
 [submodule "jcext"]
 	path = jcext
 	url = https://github.com/cran/jcext
